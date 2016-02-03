@@ -1,0 +1,75 @@
+.pasto{
+	background-color: #66cc66;
+	width: 1000px;
+	height:500px;
+	padding: 15px;
+}
+.cancha{
+	border:2px solid white;
+	width:985px ;
+	height:485px ;
+	margin-left: 5px;
+	margin-top: 5px;
+	padding: 0px;
+	display: inline-block;
+}
+.m{
+	width:110px ;
+	height:220px ;
+	border:2px solid white;
+	display: inline-block;
+	margin:0px;
+}
+.p1{
+	position: absolute;
+	margin:0px;
+	left: 28px;
+	top: 25%;
+}
+.p2{
+	position: absolute;
+	top:25%;
+	left:903px;
+}
+.centro{
+	height: 180px;
+	width: 180px;
+	position: absolute;
+	top:28%;
+	left: 420px;
+	border-radius: 300px;
+}
+.pelota3{
+	height: 25px;
+	width: 25px;
+	border-radius: 100px;
+	border:1px solid white ;
+	position: relative;
+	top:17%;
+	left:95px;
+	background-image: url("https://www.thecaker.com/shop/media/catalog/product/cache/1/image/0c07ab3bb9d360098af27ae5bb76f1e9/f/o/football_pattern.jpg");
+	background-size: 200%;
+}
+.pelota1{
+	height: 25px;
+	width: 25px;
+	border-radius: 100px;
+	border:1px solid white ;
+	position: relative;
+	top:17%;
+	left:480px;
+	background-image: url("https://www.thecaker.com/shop/media/catalog/product/cache/1/image/0c07ab3bb9d360098af27ae5bb76f1e9/f/o/football_pattern.jpg");
+	background-size: 200%;
+}
+.pelota2{
+	height: 25px;
+	width: 25px;
+	border-radius: 100px;
+	border:1px solid white ;
+	position: relative;
+	top:61%;
+	left:842px;
+	background-image: url("https://www.thecaker.com/shop/media/catalog/product/cache/1/image/0c07ab3bb9d360098af27ae5bb76f1e9/f/o/football_pattern.jpg");
+	background-size: 200%;
+}
+
